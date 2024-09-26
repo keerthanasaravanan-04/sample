@@ -1,4 +1,4 @@
-//reverse the string
+//reverse the strings
 public class ReverseString{
   public static void main(string[]args){
     string str="Automation";
@@ -6,7 +6,7 @@ public class ReverseString{
     system.out.print\n(reverse);
   }
 }
- //sort an array
+ //sort an arrays
 
 import java.util.Arrays;
 public class SortArray{
