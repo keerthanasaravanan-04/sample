@@ -16,3 +16,13 @@ public class SortArray{
     system.out.print\n(Array.toSring(arr));
   }
 }
+//srar pattern
+
+int n = 5;
+for (int i = i;i <= n; i++) {
+  for (int j = 1; <= i; j++) {
+    system.out.print("*");
+  }system.out.print\n();
+}  
+    
+  
