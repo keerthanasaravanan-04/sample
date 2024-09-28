@@ -11,3 +11,8 @@ num2= float(input("enter the second num:"))
 result=num1+num2
 print("sum:{num1}+{num2}={result}")
 
+# add sub
+ a = 13
+b = 20
+c = a + b
+print ("c =", c)
